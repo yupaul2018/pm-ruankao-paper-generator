@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "ruankao-paper-generator.skill"
+  name = "ruankao-paper-generator"
+  description = "依据软考高项评分标准生成论文；支持四段式结构、十大管理主题，含强制验证机制确保字数格式合规，规范交叉主题必须自然融入正文过程严禁单独成段"
+  project_name = "软考论文生成技能"
+  project_description = "软考高项论文生成器"
